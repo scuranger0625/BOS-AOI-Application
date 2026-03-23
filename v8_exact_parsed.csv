@@ -1,0 +1,10 @@
+family,scheduler,avg_gap_opt,avg_gap_lb
+chain_heavy,BOS,0.0,2.678
+chain_heavy,FIFO,4.5454,7.3291
+chain_heavy,HEFT,0.0,2.678
+fork_join,BOS,0.0,9.2857
+fork_join,FIFO,4.5454,14.2857
+fork_join,HEFT,2.2727,11.7857
+merge_heavy,BOS,0.0,5.0871
+merge_heavy,FIFO,2.2727,7.5261
+merge_heavy,HEFT,0.0,5.0871
